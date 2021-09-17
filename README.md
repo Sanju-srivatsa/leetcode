@@ -20,6 +20,7 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|80 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./solutions/234.%20Palindrome%20Linked%20List.js)|168 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|80 ms|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.js)|168 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[JavaScript](./solutions/463.%20Island%20Perimeter.js)|293 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[JavaScript](./solutions/706.%20Design%20HashMap.js)|371 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[JavaScript](./solutions/739.%20Daily%20Temperatures.js)|1156 ms|
