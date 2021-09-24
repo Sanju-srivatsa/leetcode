@@ -28,4 +28,5 @@
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[JavaScript](./solutions/739.%20Daily%20Temperatures.js)|1156 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[JavaScript](./solutions/976.%20Largest%20Perimeter%20Triangle.js)|100 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[JavaScript](./solutions/1002.%20Find%20Common%20Characters.js)|87 ms|
+|1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[JavaScript](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.js)|116 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|84 ms|
